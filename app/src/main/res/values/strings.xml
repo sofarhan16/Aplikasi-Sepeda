@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Sepeda</string>
+    <string name="nama">Nama Pembeli</string>
+    <string name="sepeda">Jenis Sepda</string>
+    <string name="jssepeda">Jenis Sepeda</string>
+    <string name="frame">Ukuran Frame</string>
+    <string name="jumlah">Jumlah Sepeda</string>
+    <string name="cetak">Cetak</string>
+    <string name="outputnama">Nama Pembeli</string>
+    <string name="outputsepeda">Jenis Sepeda</string>
+    <string name="outputframe">Ukuran Frame</string>
+    <string name="outputjumlah">Jumlah Sepeda</string>
+</resources>
